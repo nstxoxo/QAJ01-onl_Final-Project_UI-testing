@@ -1,4 +1,4 @@
-import { locators } from "../fixtures/locators";
+import { locators } from "../locators/locators";
 import "cypress-iframe";
 import { input } from "../fixtures/searchText";
 
