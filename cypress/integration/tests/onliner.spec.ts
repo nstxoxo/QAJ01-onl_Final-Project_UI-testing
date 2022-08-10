@@ -8,11 +8,11 @@ describe("onliner.by testing", () => {
     cy.login(input.randomEmail, input.randomPassword);
   });
 
-  it.only("Check search field positive", () => {
+  it("Check search field positive", () => {
     cy.searchPositive(input.text.dell);
   });
   
-  it.only("Check search field negative", () => {
+  it("Check search field negative", () => {
     cy.searchNegative(input.text.random);
   });
 
