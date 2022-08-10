@@ -1,6 +1,5 @@
 import { locators } from "../locators/locators";
 import "cypress-iframe";
-import { input } from "../fixtures/searchText";
 
 export const getIframeDocument = () => {
   return cy.get('iframe[class="modal-iframe"]').its("0.contentDocument");
