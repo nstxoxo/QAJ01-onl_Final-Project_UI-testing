@@ -16,4 +16,5 @@ export const locators = {
   superPrice: '[class="schema-header__title js-super-price-title"]',
   category: '[class="result__item result__item_category"]',
   iframeSearchResult: 'ul[class="search__results"]',
+  iframe: 'iframe.modal-iframe',
 };

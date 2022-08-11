@@ -2,7 +2,7 @@ import { locators } from "../locators/locators";
 import "cypress-iframe";
 
 export const getIframeDocument = () => {
-  return cy.get('iframe[class="modal-iframe"]').its("0.contentDocument");
+  return cy.get(locators.iframe).its("0.contentDocument");
 };
 
 export const getIframeBody = () => {
