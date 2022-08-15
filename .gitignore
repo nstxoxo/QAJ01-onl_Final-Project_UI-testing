@@ -1,3 +1,4 @@
 /node_modules
-/downloads
-
+allure-results/
+allure-report/
+videos/

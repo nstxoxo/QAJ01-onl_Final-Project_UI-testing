@@ -1,6 +1,6 @@
 {
-    "viewportWidth": 1024,
-    "viewportHeight": 768,
+    "viewportWidth": 1600,
+    "viewportHeight": 800,
     "baseUrl": "https://www.onliner.by/",
     "defaultCommandTimeout": 5000
 }
