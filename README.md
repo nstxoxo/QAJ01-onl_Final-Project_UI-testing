@@ -1,5 +1,14 @@
 <p align='right'>< TeachMeSkills /></p>
-<h1 align='center'>Final</h1>
+<h1 align='center'>Final Project</h1>
+<h1 align='center'>UI Testing</h1>
+
+#### Task Links
+- UI Testing
+- https://github.com/nstxoxo/QAJ01-onl_Final-Project_UI-testing
+- API Testing
+- https://github.com/nstxoxo/QAJ01-onl_Final-Project_API-testing
+- Unit Testing
+- https://github.com/nstxoxo/QAJ01-onl_Final-Project_Unit-testing
 
 #### Task 1 💻
 - Класс регистрационная форма. Описать каждое поле формы методом, входными и выходными значениями.
